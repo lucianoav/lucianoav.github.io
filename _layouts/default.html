@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>{{ page.title }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- CSS do tema Minima -->
+    <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
+    <!-- Seu CSS extra -->
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+    {%- feed_meta -%}
+    {%- seo -%}
+  </head>
+  <body>
+    <!-- Cabeçalho do tema -->
+    {%- include header.html -%}
+    <!-- Conteúdo principal -->
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </main>
+    <!-- Rodapé do tema -->
+    {%- include footer.html -%}
+  </body>
+</html>

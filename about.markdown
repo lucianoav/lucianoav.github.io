@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Sobre Mim
 permalink: /about/
 ---
@@ -51,18 +51,18 @@ permalink: /about/
 ## 🏆 Hobbies & Interesses
 
 ### ♟ Xadrez
-Venha jogar uma partida de xadrez comigo:
-- [Perfil no Chess.com](https://www.chess.com/member/lvieirace){:target="_blank"}
-- [Perfil no Lichess](https://lichess.org/@/lvieirace){:target="_blank"}
+Venha jogar uma partida de xadrez comigo:  
+
+[![Perfil no Chess.com](/assets/images/icons/chess.svg){: .icon-medium} **Perfil do Chess.com**](https://www.chess.com/member/lvieirace){:target="_blank"}  
+[![Perfil no Lichess](/assets/images/icons/chess.svg){: .icon-medium} **Perfil do Lichess**](https://lichess.org/@/lvieirace){:target="_blank"}
 
 ### Outros Interesses:
 - Formula 1
 
 ## 🌐 Conecte-se Comigo
 
-[![LinkedIn](/assets/images/icons/linkedin.svg){: .icon-small}](https://www.linkedin.com/in/luciano-alves-vieira-6b33b0121/)
-
-[![GitHub](/assets/images/icons/github.svg)](https://github.com/lucianoav)
+[![LinkedIn](/assets/images/icons/linkedin.svg){: .icon-medium}](https://www.linkedin.com/in/luciano-alves-vieira-6b33b0121/){: target="_blank"}
+[![GitHub](/assets/images/icons/github.svg){: .icon-medium}](https://github.com/lucianoav)
 
 **Outros Links:**
 - [Email](mailto:luciano.alves.vieira@gmail.com)
