@@ -1,18 +1,73 @@
 ---
 layout: page
-title: About
+title: Sobre Mim
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# Olá, eu sou Luciano! 👋
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+<!-- [//]: # (Adicione uma foto sua aqui se desejar) -->
+![Foto de Luciano](/assets/images/about/foto-perfil.jpg){: .profile-image}
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+## 🎓 Formação Acadêmica
 
+- **Mestrado em Engenharia Elétrica**  
+  *Universidade Estadual de Campinas - Unicamp* • 2022  
+  [Breve descrição ou foco principal]
 
-[jekyll-organization]: https://github.com/jekyll
+- **MBA em andamento em Data Science e Analytics**  
+  *Escola Superior de Agricultura "Luiz de Queiroz" da Universidade de São Paulo - USP/Esalq* • Atual  
+  [Breve descrição ou foco principal]
+
+- **Especialização em Analytics e Business Intelligence**  
+  *Pontifícia Universidade Católica de Minas Gerais - PUC Minas* • 2024  
+    [Breve descrição ou foco principal]
+
+- **Bacharelado em adamento em Ciência da Computação**  
+  *Centro Universitário Internacional - Uninter* • Atual  
+  [Breve descrição ou disciplinas relevantes]
+
+- **Bacharel em Engenharia Civil**  
+  *Universidade Federal do Cariri - UFCA* • 2019  
+  [Breve descrição ou disciplinas relevantes]
+
+## 💼 Experiência Profissional
+
+<!-- [//]: # (Esta seção é opcional, mas muito valorizada) -->
+
+**Cargo Atual**  
+*Banco do Brasil* • 2022 - Atual  
+- Descrição das principais responsabilidades
+- Projetos relevantes realizados
+- Conquistas ou resultados alcançados
+
+## 📚 O Que Estou Estudando Atualmente
+
+- **Tecnologias:** Python, Machine Learning, Computação Quântica e Códigos Quânticos Corretores de Erros
+- **Habilidades:** [Habilidades em desenvolvimento, ex: Gestão de Projetos, UX Design]
+- **Idiomas:** Inglês  
+- **Livros/Cursos:** [Títulos relevantes que está consumindo]
+
+## 🏆 Hobbies & Interesses
+
+### ♟ Xadrez
+Venha jogar uma partida de xadrez comigo:
+- [Perfil no Chess.com](https://www.chess.com/member/lvieirace){:target="_blank"}
+- [Perfil no Lichess](https://lichess.org/@/lvieirace){:target="_blank"}
+
+### Outros Interesses:
+- Formula 1
+
+## 🌐 Conecte-se Comigo
+
+[![LinkedIn](/assets/images/icons/linkedin.svg){: .icon-small}](https://www.linkedin.com/in/luciano-alves-vieira-6b33b0121/)
+
+[![GitHub](/assets/images/icons/github.svg)](https://github.com/lucianoav)
+
+**Outros Links:**
+- [Email](mailto:luciano.alves.vieira@gmail.com)
+- [Kaggle](https://www.kaggle.com/lvieirace/){:target="_blank"}
+
+## 🛠 Tecnologias & Ferramentas
+
+### 💻 Desenvolvimento
