@@ -6,68 +6,101 @@ permalink: /about/
 
 # Olá, eu sou Luciano! 👋
 
-<!-- [//]: # (Adicione uma foto sua aqui se desejar) -->
 ![Foto de Luciano](/assets/images/about/foto-perfil.jpg){: .profile-image}
+
+Sou **engenheiro civil** com **mestrado em Engenharia Elétrica** na área de **códigos quânticos**. Atualmente atuo na área de Analytics com o objetivo de fazer transição de carreira para **Data Science**.  
+Combino o rigor analítico que adquiri na engenharia com os conhecimentos avançados em machine learning e estatística que venho desenvolvendo para transformar dados complexos em insights acionáveis e modelos preditivos robustos.  
+Minha trajetória atravessa desde a otimização de rotas na engenharia civil até os códigos corretores de erro na computação quântica, encontrando na Data Science a síntese perfeita para aplicar meu pensamento analítico em problemas do mundo real.  
+Explore meu portfólio e experiências abaixo.
 
 ## 🎓 Formação Acadêmica
 
 - **Mestrado em Engenharia Elétrica**  
   *Universidade Estadual de Campinas - Unicamp* • 2022  
-  [Breve descrição ou foco principal]
+  Dissertação: [Processos de construção e decodificação de códigos quânticos tóricos](https://repositorio.unicamp.br/acervo/detalhe/1244550?guid=1665019025196&returnUrl=%2fMinhaSelecao%3fguid%3d1665019025196&i=1&m=1){: target="_blank"}  
+   Principais disciplinas cursadas:
+   - Teoria da Informação
+   - Introdução à teoria da Informação e da Codificação
+   - Análise de Sinais e de Sistemas Lineares
+   - Segurança em Comunicação de Dados
 
 - **MBA em andamento em Data Science e Analytics**  
   *Escola Superior de Agricultura "Luiz de Queiroz" da Universidade de São Paulo - USP/Esalq* • Atual  
-  [Breve descrição ou foco principal]
+   Principais tópicos abordados:
+   - Fundamentos de Dados e Engenharia de Dados
+   - Análise Estatística e Modelagem Preditiva
+   - Inteligência Artificial
+   - Tomada de Decisão
 
 - **Especialização em Analytics e Business Intelligence**  
   *Pontifícia Universidade Católica de Minas Gerais - PUC Minas* • 2024  
-    [Breve descrição ou foco principal]
+    Principais tópicos abordados:
+    - Governança de Dados
+    - Visualização de Dados
+    - Business Analytics
 
-- **Bacharelado em adamento em Ciência da Computação**  
+- **Bacharelado em andamento em Ciência da Computação**  
   *Centro Universitário Internacional - Uninter* • Atual  
-  [Breve descrição ou disciplinas relevantes]
+   Principais tópicos abordados:
+   - Programação Estruturada
+   - Programação Orientada a Objetos
+   - Estrutura de Dados
+   - Segurança da Informação
 
 - **Bacharel em Engenharia Civil**  
   *Universidade Federal do Cariri - UFCA* • 2019  
-  [Breve descrição ou disciplinas relevantes]
+  Trabalho de Conclusão de Curso: Roteirização ótima de transporte fretado para um polo gerador de viagens
+  Principais disciplinas cursadas:
+  - Álgebra Linear
+  - Cálculo I, II, III
+  - Cálculo Vetorial
+  - Probabilidade e Estatística
+  - EDO
 
 ## 💼 Experiência Profissional
 
-<!-- [//]: # (Esta seção é opcional, mas muito valorizada) -->
-
-**Cargo Atual**  
+**Assessor II de Unidade Estratégica**  
 *Banco do Brasil* • 2022 - Atual  
-- Descrição das principais responsabilidades
-- Projetos relevantes realizados
-- Conquistas ou resultados alcançados
+- Análise de dados para otimização de processos de orçamentação de indicadores  
+- Construção de dashboards para monitoramento de indicadores de desempenho das agências
 
-## 📚 O Que Estou Estudando Atualmente
+## 📚 Portfólio
+**Automatização de Processos de Machine Learning**  
+*Descrição:* Este projeto tem como objetivo fornecer uma estrutura inicial para projetos que envolvem Machine Learning, automatizando etapas comuns do desenvolvimento, experimentação e implementação de modelos. Com foco em produtividade e boas práticas, o template organiza o fluxo de trabalho para facilitar o início e evolução de projetos da área.  
+*Tecnologias Utilizadas:* Python, Jupyter Notebook. 
+[Repositório do GitHub.](https://github.com/lucianoav/ml-project-template){: target="_blank"} 
 
-- **Tecnologias:** Python, Machine Learning, Computação Quântica e Códigos Quânticos Corretores de Erros
-- **Habilidades:** [Habilidades em desenvolvimento, ex: Gestão de Projetos, UX Design]
+## 🏆 Premiações
+- **Medalhista de Bronze** na 9ª Olimpíada Brasileira de Matemática das Escolas Públicas (OBMEP)
+- **Medalhista de Bronze** na 7ª Olimpíada Brasileira de Matemática das Escolas Públicas (OBMEP)
+
+## ✍🏻 O Que Estou Estudando Atualmente
+
+- **Tecnologias:** Python, *Machine Learning*, Computação Quântica e Códigos Quânticos Corretores de Erros
 - **Idiomas:** Inglês  
-- **Livros/Cursos:** [Títulos relevantes que está consumindo]
+- **Livros/Cursos:** "*Mãos à Obra: Aprendizado de Máquina com Scikit-Learn, Keras & TensorFlow*" - Aurélien Géron
 
-## 🏆 Hobbies & Interesses
+## ♟ Hobbies & Interesses
 
-### ♟ Xadrez
-Venha jogar uma partida de xadrez comigo:  
-
-[![Perfil no Chess.com](/assets/images/icons/chess.svg){: .icon-medium} **Perfil do Chess.com**](https://www.chess.com/member/lvieirace){:target="_blank"}  
-[![Perfil no Lichess](/assets/images/icons/chess.svg){: .icon-medium} **Perfil do Lichess**](https://lichess.org/@/lvieirace){:target="_blank"}
-
-### Outros Interesses:
-- Formula 1
-
-## 🌐 Conecte-se Comigo
-
-[![LinkedIn](/assets/images/icons/linkedin.svg){: .icon-medium}](https://www.linkedin.com/in/luciano-alves-vieira-6b33b0121/){: target="_blank"}
-[![GitHub](/assets/images/icons/github.svg){: .icon-medium}](https://github.com/lucianoav)
-
-**Outros Links:**
-- [Email](mailto:luciano.alves.vieira@gmail.com)
-- [Kaggle](https://www.kaggle.com/lvieirace/){:target="_blank"}
+- **Xadrez** - Venha jogar uma partida de xadrez comigo:
+[**Chess.com**](https://www.chess.com/member/lvieirace){:target="_blank"}
+/
+[**Lichess**](https://lichess.org/@/lvieirace){:target="_blank"}
+- **Fórmula 1** - Especialmente **análises de dados** de telemetria e **estratégia de corridas**.
+- **Astronomia** - Observações noturnas e estou me aventurando na **astrofotografia**.
 
 ## 🛠 Tecnologias & Ferramentas
 
-### 💻 Desenvolvimento
+### 💻 Data Science e Analytics
+Python (Pandas, NumPy, Scikit-learn) | SAS | SQL | Power BI | PostgreSQL | Git | GitHub
+
+## 🎯 Objetivo
+
+Atualmente, busco **oportunidades desafiadoras** de nível júnior na área de **Data Science** ou **Engenharia de Machine Learning**, onde eu possa **resolver problemas complexos** com dados. Aberto a colaborações em projetos inovadores e discussões sobre tecnologia! Vamos conversar?
+
+## 🌐 Conecte-se Comigo
+
+[![LinkedIn](/assets/images/icons/linkedin.svg){: .icon-medium}](https://www.linkedin.com/in/luciano-alves-vieira-6b33b0121/){: target="_blank"} 
+[![GitHub](/assets/images/icons/github.svg){: .icon-medium}](https://github.com/lucianoav) 
+[![Gmail](/assets/images/icons/gmail.svg){: .icon-medium}](mailto:luciano.alves.vieira@gmail.com) 
+[![Kaggle](/assets/images/icons/kaggle.svg){: .icon-medium}](https://www.kaggle.com/lvieirace/){:target="_blank"}
