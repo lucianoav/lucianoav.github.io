@@ -21,9 +21,8 @@
 title: "While True: coffee++"
 email: luciano.alves.vieira@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Luciano Vieira | Portfólio & Pensamentos Técnicos  
+  Portfólio e reflexões de um engenheiro em transição para Data Science. Aqui compartilho meus projetos com Python e Machine Learning, escrevo sobre matemática aplicada, programação e ocasionalmente sobre computação quântica.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://https://lucianoav.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
