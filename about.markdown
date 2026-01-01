@@ -49,7 +49,7 @@ Explore meu portfólio e experiências abaixo.
 
 - **Bacharel em Engenharia Civil**  
   *Universidade Federal do Cariri - UFCA* • 2019  
-  Trabalho de Conclusão de Curso: Roteirização ótima de transporte fretado para um polo gerador de viagens
+  Trabalho de Conclusão de Curso: Roteirização ótima de transporte fretado para um polo gerador de viagens  
   Principais disciplinas cursadas:
   - Álgebra Linear
   - Cálculo I, II, III
@@ -60,7 +60,7 @@ Explore meu portfólio e experiências abaixo.
 ## 💼 Experiência Profissional
 
 **Assessor II de Unidade Estratégica**  
-*Banco do Brasil* • 2022 - Atual  
+*Banco do Brasil* • 2023 - Atual  
 - Análise de dados para otimização de processos de orçamentação de indicadores  
 - Construção de dashboards para monitoramento de indicadores de desempenho das agências
 
