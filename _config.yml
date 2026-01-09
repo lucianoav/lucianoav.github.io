@@ -21,7 +21,7 @@
 title: "While True: coffee++"
 email: luciano.alves.vieira@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Luciano Vieira | Portfólio & Pensamentos Técnicos  
+  Luciano Alves | Portfólio & Pensamentos Técnicos  
   Portfólio e reflexões de um engenheiro em transição para Data Science. Aqui compartilho meus projetos com Python e Machine Learning, escrevo sobre matemática aplicada, programação e ocasionalmente sobre computação quântica.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://https://lucianoav.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
@@ -33,6 +33,11 @@ theme: minima
 plugins:
   - jekyll-feed
 
+kramdown:
+  input: GFM
+  math_engine: mathjax
+  parse_block_html: true
+  hard_wrap: false
 
 
 # Exclude from processing.
