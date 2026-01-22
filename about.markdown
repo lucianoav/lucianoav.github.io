@@ -6,7 +6,7 @@ permalink: /about/
 
 # Olá, eu sou Luciano! 👋
 
-![Foto de Luciano](/assets/images/about/foto-perfil.jpg){: .profile-image}
+![Foto de Luciano](/assets/images/about/foto-perfil.jpeg){: .profile-image}
 
 Sou **engenheiro civil** com **mestrado em Engenharia Elétrica** na área de **códigos quânticos**. Atualmente atuo na área de Analytics com o objetivo de fazer transição de carreira para **Data Science**.  
 Combino o rigor analítico que adquiri na engenharia com os conhecimentos avançados em machine learning e estatística que venho desenvolvendo para transformar dados complexos em insights acionáveis e modelos preditivos robustos.  
@@ -61,8 +61,8 @@ Explore meu portfólio e experiências abaixo.
 
 **Assessor II de Unidade Estratégica**  
 *Banco do Brasil* • 2023 - Atual  
-- Análise de dados para otimização de processos de orçamentação de indicadores  
-- Construção de dashboards para monitoramento de indicadores de desempenho das agências
+- **Análise de Dados e Orçamentação**: Criação de regras, acompanhamento e orçamento de indicadores estratégicos
+- **Visualização de Dados para Decisão**: Desenvolvimento de dashboards interativos para monitoramento de desempenho, otimizando processos e apoio a tomada de decisão.
 
 ## 📚 Portfólio
 **Automatização de Processos de Machine Learning**  
@@ -74,11 +74,15 @@ Explore meu portfólio e experiências abaixo.
 - **Medalhista de Bronze** na 9ª Olimpíada Brasileira de Matemática das Escolas Públicas (OBMEP)
 - **Medalhista de Bronze** na 7ª Olimpíada Brasileira de Matemática das Escolas Públicas (OBMEP)
 
+## 🎓 Cursos Realizados
+- [**Algorithmic Toolbox**](https://www.coursera.org/account/accomplishments/verify/ED2NDUSJZMDY){:target="_blank"} (UC San Diego – Coursera)
+
 ## ✍🏻 O Que Estou Estudando Atualmente
 
 - **Tecnologias:** Python, *Machine Learning*, Computação Quântica e Códigos Quânticos Corretores de Erros
 - **Idiomas:** Inglês  
 - **Livros/Cursos:** "*Mãos à Obra: Aprendizado de Máquina com Scikit-Learn, Keras & TensorFlow*" - Aurélien Géron
+- **Curso** *Data Structures - Data Structures and Algorithms Specialization*, UC San Diego – Coursera
 
 ## ♟ Hobbies & Interesses
 
