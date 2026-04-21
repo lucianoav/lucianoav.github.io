@@ -24,28 +24,12 @@ Explore meu portfólio e experiências abaixo.
    - Análise de Sinais e de Sistemas Lineares
    - Segurança em Comunicação de Dados
 
-- **MBA em andamento em Data Science e Analytics**  
-  *Escola Superior de Agricultura "Luiz de Queiroz" da Universidade de São Paulo - USP/Esalq* • Atual  
-   Principais tópicos abordados:
-   - Fundamentos de Dados e Engenharia de Dados
-   - Análise Estatística e Modelagem Preditiva
-   - Inteligência Artificial
-   - Tomada de Decisão
-
 - **Especialização em Analytics e Business Intelligence**  
   *Pontifícia Universidade Católica de Minas Gerais - PUC Minas* • 2024  
     Principais tópicos abordados:
     - Governança de Dados
     - Visualização de Dados
     - Business Analytics
-
-- **Bacharelado em andamento em Ciência da Computação**  
-  *Centro Universitário Internacional - Uninter* • Atual  
-   Principais tópicos abordados:
-   - Programação Estruturada
-   - Programação Orientada a Objetos
-   - Estrutura de Dados
-   - Segurança da Informação
 
 - **Bacharel em Engenharia Civil**  
   *Universidade Federal do Cariri - UFCA* • 2019  
