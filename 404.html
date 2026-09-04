@@ -1,6 +1,8 @@
 ---
+# Sem `title`: o header.html do Minima lista no menu toda page que tem título.
 permalink: /404.html
 layout: page
+sitemap: false
 ---
 
 <style type="text/css" media="screen">
@@ -20,6 +22,7 @@ layout: page
 <div class="container">
   <h1>404</h1>
 
-  <p><strong>Page not found :(</strong></p>
-  <p>The requested page could not be found.</p>
+  <p><strong>Página não encontrada :(</strong></p>
+  <p>O endereço que você acessou não existe ou foi movido.</p>
+  <p><a href="{{ '/' | relative_url }}">Voltar para a página inicial</a></p>
 </div>

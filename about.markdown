@@ -58,7 +58,7 @@ Explore meu portfólio e experiências abaixo.
 - **Medalhista de Bronze** na 9ª Olimpíada Brasileira de Matemática das Escolas Públicas (OBMEP)
 - **Medalhista de Bronze** na 7ª Olimpíada Brasileira de Matemática das Escolas Públicas (OBMEP)
 
-## 🎓 Cursos Realizados
+## 📜 Cursos Realizados
 - [**Algorithmic Toolbox**](https://www.coursera.org/account/accomplishments/verify/ED2NDUSJZMDY){:target="_blank"} (UC San Diego – Coursera)
 
 ## ✍🏻 O Que Estou Estudando Atualmente

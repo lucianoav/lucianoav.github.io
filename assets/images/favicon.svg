@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="While True: coffee++">
+  <rect width="64" height="64" rx="12" fill="#16181d"/>
+  <path d="M14 20l12 12-12 12" fill="none" stroke="#2a7ae2" stroke-width="7"
+        stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M34 44h16" fill="none" stroke="#e4e6eb" stroke-width="7" stroke-linecap="round"/>
+</svg>

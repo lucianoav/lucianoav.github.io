@@ -4,8 +4,11 @@ title:  "Aprendendo SQL e Python com problemas: minha experiência com o DataLem
 date:   2026-04-21 15:00:00 -0300
 author: Luciano Alves
 categories: data-science sql
-tags: sql, python, datalemur, aprendizado-contínuo, prática
-mathjax: true
+tags: [sql, python, datalemur, aprendizado-contínuo, prática]
+description: "Como uso o DataLemur para praticar SQL e Python com problemas de contexto realista, e a rotina de estudo em três passos que tenho adotado."
+image: /assets/images/posts/2026-04-21-datalemur/datalemur.png
+redirect_from:
+  - /data-science/sql/2026/04/21/datalemur.html
 ---
 
 Se você quer sair do básico e praticar com cenários parecidos com os do dia a dia, vale a pena conhecer o **[DataLemur](https://datalemur.com/)**. A plataforma criada por Nick Singh reúne problemas de SQL, Python, estatística, probabilidade e Machine Learning, organizados por categoria e nível de dificuldade (fácil, médio, difícil). 
@@ -13,8 +16,10 @@ Além disso, o site conta com um tutorial bem amplo de SQL, que cobre desde cons
 
 ## Como funciona o DataLemur
 
-![Página inicial do DataLemur](/assets/images/posts/2026-04-21-datalemur/datalemur.png)
-*Página inicial do DataLemur*
+<figure markdown="0">
+<img src="/assets/images/posts/2026-04-21-datalemur/datalemur.png" alt="Página inicial do DataLemur" loading="lazy" decoding="async">
+<figcaption>Página inicial do DataLemur</figcaption>
+</figure>
 
 Após escolher uma questão, o site divide o conteúdo em quatro abas:
 
@@ -27,8 +32,10 @@ Na lateral direita da tela há um editor de código.
 Você pode executar a consulta (**Run Code**) e submeter a solução (**Submit**). 
 Quando uma solução é submetida, o site informa se foi bem-sucedida ou não; em caso de erro, você vê a resposta esperada e a sua submissão, o que ajuda a identificar o problema.
 
-![Exemplo de problema – editor à direita, abas com enunciado, solução, discussão e submissões](/assets/images/posts/2026-04-21-datalemur/problema.png)
-*Exemplo de problema – editor à direita, abas com enunciado, solução, discussão e submissões*
+<figure markdown="0">
+<img src="/assets/images/posts/2026-04-21-datalemur/problema.png" alt="Exemplo de problema no DataLemur: editor de código à direita e abas com enunciado, solução, discussão e submissões" loading="lazy" decoding="async">
+<figcaption>Exemplo de problema – editor à direita, abas com enunciado, solução, discussão e submissões</figcaption>
+</figure>
 
 ## Minha abordagem de estudo
 
@@ -51,11 +58,15 @@ Analisar problemas com características mais realistas ajuda a construir um **po
 
 ## Prós e contras (de forma rápida)
 
+<div class="table-wrapper" markdown="1">
+
 | ✅ Pontos positivos | ⚠️ Pontos de atenção |
 |-------------------|----------------------|
 | Gratuito (com planos pagos opcionais) | Conjuntos de dados pequenos – bom para aprender, mas não simula desafios de performance |
 | Problemas com contexto realista | |
 | Tutorial completo de SQL | |
+
+</div>
 
 ## Conclusão
 

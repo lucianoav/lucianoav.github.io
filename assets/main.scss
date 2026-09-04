@@ -1,0 +1,213 @@
+---
+# Camada própria sobre o tema Minima 2.5.
+# As variáveis abaixo precisam vir ANTES do @import (o Minima as declara com !default).
+---
+
+$base-font-size:   17px;
+$base-line-height: 1.7;
+$content-width:    860px;
+$brand-color:      #2a7ae2;
+
+@import "minima";
+
+// ---------------------------------------------------------------------------
+// Tipografia
+// ---------------------------------------------------------------------------
+
+:root {
+  color-scheme: light dark;
+}
+
+.post-content {
+  h2 { @include relative-font-size(1.6); margin-top: $spacing-unit; }
+  h3 { @include relative-font-size(1.3); margin-top: $spacing-unit * 0.7; }
+}
+
+// Foco visível para navegação por teclado (o Minima 2.5 não define nenhum).
+:focus-visible {
+  outline: 2px solid $brand-color;
+  outline-offset: 2px;
+}
+
+// ---------------------------------------------------------------------------
+// Imagem de perfil e ícones (antes em assets/css/style.scss)
+// ---------------------------------------------------------------------------
+
+.profile-image {
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  margin: 0 auto 2rem;
+  display: block;
+}
+
+.icon-medium {
+  width: 32px;
+  height: 32px;
+  vertical-align: middle;
+}
+
+// ---------------------------------------------------------------------------
+// Imagens e legendas dos posts
+// ---------------------------------------------------------------------------
+
+figure {
+  margin: $spacing-unit 0;
+  text-align: center;
+
+  img {
+    border-radius: 6px;
+    box-shadow: 0 1px 6px rgba(0, 0, 0, 0.15);
+  }
+}
+
+figcaption {
+  @include relative-font-size(0.8125);
+  color: $grey-color;
+  margin-top: 8px;
+  font-style: italic;
+}
+
+// ---------------------------------------------------------------------------
+// Tabelas roláveis no celular
+// ---------------------------------------------------------------------------
+
+.table-wrapper {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  margin-bottom: $spacing-unit;
+
+  table { margin-bottom: 0; }
+}
+
+// ---------------------------------------------------------------------------
+// Tags do post
+// ---------------------------------------------------------------------------
+
+.post-tags {
+  list-style: none;
+  margin: 8px 0 0;
+  padding: 0;
+
+  li {
+    display: inline-block;
+    @include relative-font-size(0.75);
+    color: $grey-color-dark;
+    background-color: $grey-color-light;
+    border-radius: 3px;
+    padding: 2px 8px;
+    margin: 0 4px 4px 0;
+  }
+}
+
+// ---------------------------------------------------------------------------
+// Modo escuro
+// O Minima 2.5 compila cores fixas, então cada seletor precisa ser sobrescrito.
+// ---------------------------------------------------------------------------
+
+@media (prefers-color-scheme: dark) {
+  $dark-bg:        #16181d;
+  $dark-surface:   #1e2128;
+  $dark-text:      #e4e6eb;
+  $dark-muted:     #9aa1ac;
+  $dark-border:    #333842;
+  $dark-link:      #6fb0f7;
+
+  body {
+    color: $dark-text;
+    background-color: $dark-bg;
+  }
+
+  a {
+    color: $dark-link;
+
+    &:visited { color: lighten($dark-link, 8%); }
+    &:hover   { color: #fff; }
+  }
+
+  .site-header {
+    border-top-color: $dark-link;
+    border-bottom-color: $dark-border;
+  }
+
+  .site-title,
+  .site-title:visited { color: $dark-text; }
+
+  .site-nav {
+    .page-link { color: $dark-text; }
+
+    @include media-query($on-palm) {
+      background-color: $dark-surface;
+      border-color: $dark-border;
+
+      .menu-icon > svg { fill: $dark-text; }
+    }
+  }
+
+  .site-footer { border-top-color: $dark-border; }
+
+  .footer-heading,
+  .post-meta,
+  .post-list > li > .post-meta { color: $dark-muted; }
+
+  .svg-icon { fill: $dark-muted; }
+
+  blockquote {
+    color: $dark-muted;
+    border-left-color: $dark-border;
+  }
+
+  pre,
+  code {
+    background-color: $dark-surface;
+    border-color: $dark-border;
+    color: $dark-text;
+  }
+
+  .highlight,
+  .highlighter-rouge .highlight { background: $dark-surface; }
+
+  // Realce de sintaxe: os tons padrão do Minima são escuros demais para fundo escuro.
+  .highlight {
+    .c, .cm, .c1, .cs, .cp { color: #7f8896; }
+    .k, .kc, .kd, .kp, .kr { color: #d7a3ff; }
+    .kt, .nc, .nn          { color: #7fd6c1; }
+    .s, .s1, .s2, .se, .sr { color: #f5a97f; }
+    .m, .mf, .mi, .mo      { color: #8fd4ff; }
+    .nb, .no, .na          { color: #8fd4ff; }
+    .nf, .nd               { color: #ffd479; }
+    .err                   { color: #ff8f8f; background-color: transparent; }
+  }
+
+  table {
+    color: $dark-text;
+    border-color: $dark-border;
+
+    tr:nth-child(even) { background-color: lighten($dark-bg, 3%); }
+
+    th {
+      background-color: $dark-surface;
+      border-color: $dark-border;
+      border-bottom-color: $dark-muted;
+    }
+
+    td { border-color: $dark-border; }
+  }
+
+  figure img { box-shadow: 0 1px 6px rgba(0, 0, 0, 0.6); }
+
+  .post-tags li {
+    color: $dark-text;
+    background-color: $dark-surface;
+  }
+
+  // Ícones sociais do /about são <img>, então o CSS não consegue recolori-los.
+  // Um fundo claro arredondado mantém todos legíveis sem inverter as cores de marca.
+  .icon-medium {
+    background-color: #fff;
+    border-radius: 6px;
+    padding: 3px;
+    box-sizing: content-box;
+  }
+}

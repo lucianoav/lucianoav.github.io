@@ -1,28 +1,15 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
+<html lang="{{ site.lang | default: 'pt-BR' }}">
   <head>
     <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>{{ page.title }}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <!-- CSS do tema Minima -->
+    <meta name="theme-color" content="#2a7ae2">
+    <link rel="icon" href="{{ '/assets/images/favicon.svg' | relative_url }}" type="image/svg+xml">
+    <!-- CSS do tema Minima + camada própria (assets/main.scss) -->
     <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
-    <!-- Seu CSS extra -->
-    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
     {%- feed_meta -%}
     {%- seo -%}
-
-    
-  <!-- Google tag (gtag.js) -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-FDD4XT4M97"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-
-    gtag('config', 'G-FDD4XT4M97');
-  </script>
-
+    {%- include analytics.html -%}
   </head>
   <body>
     <!-- Cabeçalho do tema -->
